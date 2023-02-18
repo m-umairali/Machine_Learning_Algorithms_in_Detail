@@ -1,3 +1,7 @@
+<img src="https://miro.medium.com/max/1400/1*Lejtm0oGlOC5U0-J0JmGhg.png" alt="python">
+
+
+
 # Machine Learning Algorithms in Details
 
 - The ML Algorithms in Detail repository is a comprehensive resource for learning about various machine learning algorithms. Machine learning is a rapidly growing field that is transforming industries by providing automated solutions to complex problems. However, understanding the nuances of different machine learning algorithms can be challenging. That's why we created this repository as a one-stop-shop for learning about various machine learning algorithms in detail. By providing in-depth explanations, code examples, and a community-driven approach, we aim to make learning about machine learning algorithms both accessible and enjoyable.
