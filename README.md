@@ -4,10 +4,37 @@
 
 - The repository is organized into different directories for each category of algorithms. The categories include:
 
-- **Classification algorithms:** Logistic Regression, Naive Bayes, Decision Trees, Random Forests, Support Vector Machines (SVM), K-Nearest Neighbors (KNN), Neural Networks.
-- **Regression algorithms:** Linear Regression, Polynomial Regression, Ridge Regression, Lasso Regression, Elastic Net Regression.
-- **Clustering algorithms:** K-Means Clustering, Hierarchical Clustering, Density-Based Spatial Clustering of Applications with Noise (DBSCAN).
-- **Dimension Reduction algorithms:** Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA), t-Distributed Stochastic Neighbor Embedding (t-SNE).
+**Classification algorithms:**
+
+- Logistic Regression
+- Naive Bayes
+- Decision Trees
+- Random Forests
+- Support Vector Machines (SVM)
+- K-Nearest Neighbors (KNN)
+- Neural Networks
+
+**Regression algorithms:**
+
+- Linear Regression
+- Polynomial Regression
+- Ridge Regression
+- Lasso Regression
+- Elastic Net Regression
+
+**Clustering algorithms:**
+
+- K-Means Clustering
+- Hierarchical Clustering
+- Density-Based Spatial Clustering of Applications with Noise (DBSCAN)
+
+**Dimension Reduction algorithms:**
+
+- Principal Component Analysis (PCA)
+- Linear Discriminant Analysis (LDA)
+- t-Distributed Stochastic Neighbor Embedding (t-SNE)
+
+
 - In each directory, you will find a detailed description of the algorithm, including its mathematical formulation, the assumptions it makes, its strengths, and its limitations. Additionally, we provide code examples in various programming languages (such as Python, R, and MATLAB) to help you implement the algorithm in your projects.
 
 - Each algorithm is presented in a structured and organized way, with clear explanations, illustrations, and code examples. We also provide references to additional resources for those who want to dive deeper into a particular topic.
